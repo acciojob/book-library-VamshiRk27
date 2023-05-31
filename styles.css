@@ -8,13 +8,17 @@ body{
 	justify-content:center;
 	background-color:white;
 }
-h2{
+h1{
 	text-align:center;
 	background-color:#f8f8f8;
 	padding:25px;
 	padding-top:0px;
 	margin-top:0px;
 	margin-bottom:0px;
+}
+h2{
+	padding:0px;
+	margin:0px;
 }
 .book{
 	display:flex;
